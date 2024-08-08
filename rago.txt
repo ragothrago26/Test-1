@@ -1,5 +1,7 @@
 hi 
 helo
-
+<<<<<< HEAD
 kind of action
+hiiii
 
+	
